@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "a3515366b6c30e24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5b919f12d1710c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae18b7f451624e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/DataBases/Microsoft SQL Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8a649e67643be45",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60f8383c0d138c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0edd5a7d425a59f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9c6d7b3b3279a81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01e8fe5b38b92323",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5873d13079f1c50a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e81dd0d7d6528e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa79bbcb49c6602",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DataEngineering/DataBases/Microsoft SQL Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "515ddd9907d6b624",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DataEngineering/DataBases/Microsoft SQL Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "210660c5ba9d8c94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f4094c9d19e3f1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DataEngineering/DataBases/Microsoft SQL Server.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ae18b7f451624e5",
+  "lastOpenFiles": [
+    "DataEngineering/Google Cloud Platform/GCP DE Case Study.md",
+    "DataEngineering/DataBases/DataBase in general interview.md",
+    "DataEngineering/DataBases/stored procedure.md",
+    "DataEngineering/DataBases/Microsoft SQL Server.md"
+  ]
+}
