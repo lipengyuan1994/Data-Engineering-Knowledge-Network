@@ -1,0 +1,2 @@
+45. Your company has an organization with several folders and several projects defined in the [[Resource Hierarchy]]. You want to limit access to all VMs created within a project. How would you specify those restrictions?
+The correct answer is to create a policy and attach it to the project. Attaching a policy to each VM is more work and does not take advantage of inheritance in the resource hierarchy.  There is no need to create custom roles and since the requirement is about access to a kind of resource, a policy is the best approach.

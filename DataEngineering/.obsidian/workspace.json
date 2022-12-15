@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c15446372a235cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bb80dab934dc959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6689060f047bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/T-SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "779d3147bd006dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/Default encryption at rest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7906022db9577e35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb1b1d8a28a0c8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/Google Managed Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "587538b831a411d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/Options for deploying ML models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5a18c774678d659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/Some Practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16afb1817ae6a5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/GCP DE Case Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b3f40c974785123",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "49e4abf57eaa74c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud Platform/Some Practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8aea25f577fdb50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "66de7b5bb0fe91be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8225ef5ed5a41c89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7733fd2d05c38893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f987248c2f8241a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9df76309f3cd8e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "864de18811e04dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ca0997a10869ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0358c6d000e82957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5bda19f7ac988a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d613be4726695b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9b3f40c974785123",
+  "lastOpenFiles": [
+    "Google Cloud Platform/GCP DE Case Study.md",
+    "Hive vs Parquet.md",
+    "Hive.md",
+    "Google Cloud Platform/Storage Service Encryption.md",
+    "Google Cloud Platform/Storage_and_Compute 2.pdf",
+    "Google Cloud Platform/screenshot1.png",
+    "Google Cloud Platform/Options for deploying ML models.md",
+    "Google Cloud Platform/Google Cloud Sorage.md",
+    "Google Cloud Platform/First Attempt.md",
+    "Google Cloud Platform/BigQuery.md"
+  ]
+}

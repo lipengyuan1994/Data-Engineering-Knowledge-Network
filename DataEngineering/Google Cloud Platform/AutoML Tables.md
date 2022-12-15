@@ -1,0 +1,1 @@
+uses structured data to build models with little input from users.  Tensorflow and Spark ML are suitable for modelers with programming skills. There is no Bigtable ML but BigQuery has BigQuery ML.
