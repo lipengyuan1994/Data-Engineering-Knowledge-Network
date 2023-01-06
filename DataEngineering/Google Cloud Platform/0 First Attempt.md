@@ -20,3 +20,14 @@ File type for performance:
 data protection    Data Loss Prevention API
 
 
+
+
+
+Study Plan 
+Done: 
+1. Section 11 Cloud pub/sub
+2. Section 12
+3. Section 13 
+4. doing: section 14.
+
+

@@ -33,9 +33,15 @@
 
   
 
-  
-
-  
+## Cloud Storage Benefits for [[Cloud Dataproc]] storage
+* Direct data acccess
+* HDFS compatibility
+* Interoperability
+* Data accessibility
+* High data availablity ( reduncy policy)
+* No storage maangement overhead
+* quick startup (no need to copy data)
+* another reason that we are able to use [[ephemeral cluster]] so effectively in google cloud.
 
 ### Object Lifecycle Management
 • Automatically transition to lower-cost storage class
