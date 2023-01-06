@@ -1,1 +1,0 @@
-With cloud monitoring you can also set up alerting with regards to activities and events within your [[Hadoop]] [[Spark]] cluster running in cloud data proc.
