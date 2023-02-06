@@ -1,3 +1,5 @@
+Cloud Dataflow is well suited to transforming both stream and batch data. Once data has been transformed, it is available for analysis.
+
 ## Feature
 
 -   Executes **[[Apache Beam]]** Pipelines(no-ops, could use **[[Spark]], [[Flink]]**, [[Java]]) - Apache Beam Runner
